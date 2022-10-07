@@ -1,0 +1,31 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    background-color: black;
+    text-align: center;
+    color: #ffffff;
+}
+hr { 
+    border: 0;
+    border-top: 2px solid rgb(46, 147, 241); 
+    border-bottom: 2px solid rgb(46, 147, 241);
+    height:0;
+}
+
+#perfil{
+    border-radius: 100%;
+    position: absolute;
+    width: 15%;
+    left: 30px;
+    top: 430px;
+
+
+}
+
+#nombre{
+   font-weight: bold;
+   margin-top: 40%;
+   margin-left: 10px;
+}
