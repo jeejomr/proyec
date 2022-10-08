@@ -1,0 +1,29 @@
+.row{
+    padding: 50px;
+    background-color: black;
+}
+hr { 
+    border: 0;
+    border-top: 2px solid rgb(46, 147, 241); 
+    border-bottom: 2px solid rgb(46, 147, 241);
+    height:0;
+}
+.container{
+    width: auto;
+    color: #2994ff;
+}
+h1{
+    color: aliceblue;
+    margin-top: 5%;
+}
+.section1, .section2{
+display: inline-block;
+text-align: justify;
+}
+
+.img-proyec{
+    box-shadow: 10px 10px 30px #009393;
+}
+p{
+    color: aliceblue;
+}

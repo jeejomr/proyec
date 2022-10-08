@@ -1,0 +1,25 @@
+.row{
+    padding: 60px;
+    background-color: black;
+}
+
+hr { 
+    border: 0;
+    border-top: 2px solid rgb(46, 147, 241); 
+    border-bottom: 2px solid rgb(46, 147, 241);
+    height:0;
+    margin-top: auto;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    margin-top: auto;
+    margin-top: 5%;
+}
+
+.skill, .skill2,
+.skill3, .skill4,
+.skill5, .skill6{
+    padding: 50px;
+}
